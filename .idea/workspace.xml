@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c74212d1-e7e2-465d-95af-27de451fcc4c" name="Default Changelist" comment="">
+    <list default="true" id="c74212d1-e7e2-465d-95af-27de451fcc4c" name="Default Changelist" comment="first release">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,8 +173,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606577741018</updated>
-      <workItem from="1606577742769" duration="22227000" />
+      <workItem from="1606577742769" duration="23545000" />
     </task>
+    <task id="LOCAL-00001" summary="first release">
+      <created>1606611352556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606611352556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +198,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first release" />
+    <option name="LAST_COMMIT_MESSAGE" value="first release" />
   </component>
   <component name="WindowStateProjectService">
     <state x="622" y="152" key="NewPhpClassDialog" timestamp="1606595117159">
